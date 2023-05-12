@@ -9,3 +9,6 @@ docker run -d -p 80:80 --rm --name z1 zad1
 docker logs z1
 ## d) Sprawdzenie ilości warstw :
 docker history zad1
+
+## W katalogu 'zrzuty_ekranu' znajdują się zrzuty ekrany prezentujące efekty powyższych poleceń oraz wynik skanu wrażliwości.
+## Może być wymagane pobranie innej wersji systemu alpine, w zależności od używanej architektury (oraz dokonanie zmiany w pliku Dockerfile)

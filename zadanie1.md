@@ -9,5 +9,6 @@ docker logs z1
 ## d) Sprawdzenie ilości warstw :
 docker history zad1
 
+## Repozytorium z plikami aplikacji : https://github.com/KacperLAB/zad1_src
 ## W katalogu 'zrzuty_ekranu' znajdują się zrzuty ekrany prezentujące efekty powyższych poleceń oraz wynik skanu wrażliwości.
 ## Może być wymagane pobranie innej wersji systemu alpine, w zależności od używanej architektury (oraz dokonanie zmiany w pliku Dockerfile)
